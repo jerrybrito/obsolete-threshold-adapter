@@ -1,0 +1,2 @@
+# Requires: deprecated-void
+# (Not available on PyPI)
